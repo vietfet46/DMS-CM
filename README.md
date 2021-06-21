@@ -1,4 +1,4 @@
-# Dynamic Metasurface Simulation using CST-Matlab API (DMS-CM)
+# Dynamical Metasurface Aperture Simulation using CST-Matlab API (DMS-CM)
 # Demonstrations
 This code is used to automatically generate and simulate a dynamical metasurface aperture consisting of an array of randomly coded metamaterial radiator elements for multi- ON/OFF configurations of diodes. Then, S-parameters and nearfield scanning surfaces are recorded to analyze for the next required jobs.
 # Requirements
